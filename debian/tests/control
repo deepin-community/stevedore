@@ -1,0 +1,4 @@
+Restrictions: superficial
+Depends:
+ python3-stevedore,
+Test-Command: python3 -c "import stevedore"
