@@ -1,1 +1,40 @@
-.pc/
+*.py[co]
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+.stestr/
+
+#Translations
+*.mo
+
+#Mr Developer
+.mr.developer.cfg
+
+# Editors
+tags
+
+# pbr generated files
+AUTHORS
+ChangeLog
+
+# reno build
+RELEASENOTES.rst
+releasenotes/build
+releasenotes/notes/reno.cache
