@@ -1,4 +1,5 @@
-Restrictions: superficial
+Tests: unittests
 Depends:
- python3-stevedore,
-Test-Command: python3 -c "import stevedore"
+ @,
+ @builddeps@,
+Restrictions: allow-stderr needs-root

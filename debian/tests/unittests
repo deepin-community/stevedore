@@ -1,0 +1,5 @@
+#!/bin/sh
+
+set -e
+
+pkgos-dh_auto_test --no-py2 'stevedore\.tests\.(?!test_extension\.TestExtensionProperties\.test_extras)'

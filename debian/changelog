@@ -1,3 +1,77 @@
+stevedore (5.1.0-2) unstable; urgency=medium
+
+  * Uploading to unstable.
+  * Add autopkgtest.
+
+ -- Thomas Goirand <zigo@debian.org>  Fri, 29 Sep 2023 09:59:54 +0200
+
+stevedore (5.1.0-1) experimental; urgency=medium
+
+  * New upstream release.
+
+ -- Thomas Goirand <zigo@debian.org>  Tue, 29 Aug 2023 11:39:07 +0200
+
+stevedore (5.0.0-3) unstable; urgency=medium
+
+  * Cleans better (Closes: #1047260).
+
+ -- Thomas Goirand <zigo@debian.org>  Mon, 21 Aug 2023 11:24:30 +0200
+
+stevedore (5.0.0-2) unstable; urgency=medium
+
+  * Uploading to unstable.
+
+ -- Thomas Goirand <zigo@debian.org>  Mon, 19 Jun 2023 11:17:46 +0200
+
+stevedore (5.0.0-1) experimental; urgency=medium
+
+  * New upstream release.
+
+ -- Thomas Goirand <zigo@debian.org>  Tue, 21 Feb 2023 14:35:20 +0100
+
+stevedore (4.0.2-2) unstable; urgency=medium
+
+  * Removed (build-)depends on python3-importlib-metadata.
+
+ -- Thomas Goirand <zigo@debian.org>  Mon, 28 Nov 2022 09:12:26 +0100
+
+stevedore (4.0.2-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Thomas Goirand <zigo@debian.org>  Thu, 20 Oct 2022 15:44:29 +0200
+
+stevedore (4.0.1-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Thomas Goirand <zigo@debian.org>  Fri, 14 Oct 2022 14:35:50 +0200
+
+stevedore (4.0.0-2) unstable; urgency=medium
+
+  * Uploading to unstable.
+
+ -- Thomas Goirand <zigo@debian.org>  Fri, 23 Sep 2022 12:11:14 +0200
+
+stevedore (4.0.0-1) experimental; urgency=medium
+
+  * New upstream release.
+
+ -- Thomas Goirand <zigo@debian.org>  Mon, 29 Aug 2022 15:17:57 +0200
+
+stevedore (3.5.0-2) unstable; urgency=medium
+
+  * Uploading to unstable.
+  * Blacklist test_extras.
+
+ -- Thomas Goirand <zigo@debian.org>  Thu, 24 Mar 2022 14:33:33 +0100
+
+stevedore (3.5.0-1) experimental; urgency=medium
+
+  * New upstream release.
+
+ -- Thomas Goirand <zigo@debian.org>  Sat, 19 Feb 2022 11:06:39 +0100
+
 stevedore (3.4.0-2) unstable; urgency=medium
 
   * Uploading to unstable.
